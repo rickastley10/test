@@ -13,4 +13,4 @@ while 1 == 1:
         elif whole >= 21:
             print('u lost')
     else:
-        print('error')
+        print('you got ',whole)
