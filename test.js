@@ -1,0 +1,12 @@
+//code is here
+while(1 == 1){
+    alert('choose from rock / paper / scissors');
+    x = prompt('first player:');
+    
+    y = prompt('second player')
+    if (x === 'test'){
+        alert(null);
+    }
+    alert('first choose: ' + x +'\n and second choose:' + y);
+ 
+}
